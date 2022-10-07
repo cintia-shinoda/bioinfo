@@ -6,7 +6,7 @@
 |  | Data | Tópico | Exercícios |
 |:---:|:---:|:---|:---|
 | &check; | 11/09/2022 | String Algorithms | <ul><li>[x] Counting DNA Nucleotides</li><li>[x] Transcribing DNA into RNA</li></ul> |
-| &check; | 25/09/2022 | String Algorithms | <ul><li>[x] Complementing a Strand of DNA</li><li>[] Computing GC Content</li></ul> |
+| &check; | 25/09/2022 | String Algorithms | <ul><li>[x] Complementing a Strand of DNA</li><li>[x] Computing GC Content</li></ul> |
 |  |  | Alignment and Combinatorics |  |
 |  |  | Heredity |  |
 |  |  | String Algorithms |  |
